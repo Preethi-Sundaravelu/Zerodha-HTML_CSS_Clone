@@ -1,0 +1,267 @@
+.container{
+    width:1330px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.head{
+    padding-top:10px;
+    padding-left:80px;
+    width:100%;
+    height:50px;
+    box-shadow: 1px 1px 1px #cccbcb;
+}
+.items img{
+    
+    width:135px;
+    padding-top:5px;
+    margin-right:450px;
+}
+.items a{
+    text-decoration: none;
+    margin-left:50px;
+    color:rgb(124, 119, 119);
+    
+}
+.items a:hover{
+    color:rgb(52, 52, 245);
+}
+#front{
+    padding-left:450px;
+    padding-top:40px;
+    width:400px;
+    height:300px;
+}
+.invest h1{
+    text-align: center;
+    font-size: 45px;
+    color:rgb(39, 38, 38);
+}
+.invest p{
+    text-align: center;
+    font-size: 25px;
+    color:rgb(100, 98, 98);
+}
+.invest button{
+    margin-left:590px;
+    margin-top: 10px;
+    margin-bottom:100px;
+    padding:10px 30px 10px 30px;
+    color:white;
+    font-size:20px;
+    background-color: rgb(55, 55, 226);
+}
+.cup{
+    width:90%;
+    padding-left:50px;
+
+    
+}
+.largest{
+    width:92%;
+    margin-left:7%;
+    margin-bottom:100px;
+
+}
+.largest img{
+    float: left;
+    width:450px;
+   
+}
+.largest h1{
+  font-size:30px;
+  margin-left:580px;
+}
+.largest p{
+    margin-left:580px;
+    font-size:17px;
+    color:rgb(59, 58, 58);
+}
+.largest ul{
+    margin-left:580px;
+    margin-top:20px;
+    font-size:18px;
+    color:rgb(59, 58, 58);
+    width:280px;
+}
+.main{
+    margin-bottom:60px;
+}
+.all h1{
+    font-size:40px;
+    text-align: center;  
+    margin-bottom:1px; 
+}
+.all p{
+    font-size:20px;
+    text-align: center; 
+    margin-top:1px;
+    color:rgb(59, 58, 58);
+    margin-bottom:80px;
+}
+.all img{
+    margin-bottom:50px;
+    margin-left:50px;
+}
+.all a{
+     text-decoration: none;
+     text-align: center;
+     margin-left:45%;
+     font-size:20px;
+     color:rgb(30, 42, 202);
+}
+.all a:hover{
+    color:rgb(23, 2, 49);
+}
+
+.unbeat{
+    margin-top:50px;
+    padding-left:140px;
+    height:450px;
+}
+.price{
+    float:left;
+    width:100%;
+}
+
+.price h1{
+ font-size: 30px;
+ width:30%;
+  color:rgb(66, 66, 66);
+}
+.price p{
+    font-size: 20px;
+    width:450px;
+    color:rgb(49, 49, 49);
+}
+#hj{
+    font-size: 50px;
+    color:black;
+    width:10%;
+
+}
+#p{
+    width:34%;
+}
+.rup{
+    
+    float:right;
+    width:50%;
+    margin-top:-150px;
+    border:2px solid rgb(218, 214, 214);
+    padding-left:10px;
+    margin-right:2px;
+}
+#h{
+    font-size: 50px;
+    float:right;
+    color:black;
+    width:12%;
+    margin-top:-180px;
+    margin-right:120px;
+    text-align: center;
+}
+#pj{
+    width:34%;
+    float:right;
+    margin-top:-70px;
+    margin-right:70px;
+    text-align: center;
+}
+#var{
+    margin-left: 130px;
+    text-decoration: none;
+    font-size: 20px;
+    color:rgb(37, 37, 250);
+}
+#var:hover{
+    color:black;
+}
+#tra{
+    margin-left: 130px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top:10px;
+    color:rgb(37, 37, 250);
+}
+#tra:hover{
+    color:black;
+}
+.mid{
+    margin-top:-30px;
+
+    margin-bottom: 40px;;
+}
+.mid h4{
+    text-align: center;
+    font-size:35px;
+}
+.mid p{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(71, 70, 70);
+}
+.mid button{
+    margin-left:590px;
+    margin-top: 10px;
+    margin-bottom:100px;
+    padding:10px 30px 10px 30px;
+    color:white;
+    font-size:20px;
+    background-color: rgb(55, 55, 226);
+}
+.bottom{
+    width:100%;
+    background-color: rgb(236, 232, 232);
+}
+.com{
+    width:100%;
+    height:300px;
+    padding-left: 60px;;
+}
+.com img{
+    width:150px;
+    margin-top: 40px;
+}
+.com p{
+    font-size: 14px;
+    color:rgb(107, 106, 106);
+}
+.com .list{
+ float:right;
+ font-size: 20px;
+ margin-right:65%;
+ margin-top:-70px;
+ color:rgb(51, 50, 50);
+}
+.com .sup{
+    float:right;
+    margin-left:25%;
+    color:rgb(51, 50, 50);
+    margin-top:-250px;
+    margin-right:43%;
+    font-size: 20px;
+}
+.para{
+    width:100%;
+    font-size:12px;
+    color: rgb(90, 87, 87);
+    padding:50px;
+    background-color: rgb(236, 232, 232);
+}
+.com .acc{
+
+    float:right;
+    font-size: 20px;
+    margin-right:25%;
+    margin-top:-245px;
+    color:rgb(51, 50, 50);
+}
+.com a{
+    text-decoration: none;
+    color:rgb(107, 106, 106);
+}
+.com a:hover{
+    color:rgb(55, 55, 201);
+}
